@@ -1,0 +1,28 @@
+name: 'EarthCentricInnovations '
+favicon: null
+layout_spectrum: 0.8704556885641068
+typography_spectrum: 0.3953364158514887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9439428399782628
+  lightness: 0.3326966285239905
+  saturation: 0.6131206918507814
+  rhythmicContrast: 0.5261992858722806
+purpose: []
