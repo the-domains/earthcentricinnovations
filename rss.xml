@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[EarthCentricInnovations ]]></title>
         <description><![CDATA[EarthCentricInnovations ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/earthcentricinnovations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 23:42:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 23:47:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/earthcentricinnovations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The ELC is almost finished! Today the Lady Bird Johnson Wildflower Center came to install the native plants on the living roof and EarthCentric Innovations had a back property tour to finalize site options for the Eco EdVenture village </p>]]></description>
-            <link>undefinedthe-elc-is-almost-finished-today-the-lady-bird-johnson-wild/index.html</link>
+            <link>https://thegrid.ai/earthcentricinnovations/the-elc-is-almost-finished-today-the-lady-bird-johnson-wild/index.html</link>
             <guid isPermaLink="false">1748c6e4-d229-4227-9ecb-18b8156a155e</guid>
-            <pubDate>Wed, 25 May 2016 23:42:44 GMT</pubDate>
+            <pubDate>Wed, 25 May 2016 23:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
